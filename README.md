@@ -174,8 +174,6 @@ B.Tech CSE Student | Machine Learning Enthusiast
 GitHub:
 https://github.com/anubhavsingh23906-code
 
-LinkedIn:
-(Add your LinkedIn profile)
 
 ---
 
