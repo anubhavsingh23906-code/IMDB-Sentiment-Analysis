@@ -5,9 +5,8 @@ An NLP-powered web application that analyzes movie reviews and predicts whether 
 
 ## 🚀 Live Demo
 
-Add your Streamlit deployment link here:
 
-[Live Demo](YOUR_STREAMLIT_LINK)
+[Live Demo]-https://imdb-sentiment-analysis-fcj9xxjwke7oweurnuwmyq.streamlit.app/
 
 ---
 
